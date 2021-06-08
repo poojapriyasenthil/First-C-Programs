@@ -6,4 +6,4 @@ Read and display the following:
 		Name : Hemapriya
 		Age : 25
 		Cgpa : 9.09
-
+Find max and min of given list of numbers
