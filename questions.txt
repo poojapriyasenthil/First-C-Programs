@@ -1,0 +1,9 @@
+Write a program to calculate area of circle. Read the radious from the user and display the area with proper message.
+Write a program to print all capital letters in the alphabets in the same line with a tab space.
+Write a program to read weights of dozen bananas and print the weights. Get the weights from the user.
+
+Read and display the following:
+		Name : Hemapriya
+		Age : 25
+		Cgpa : 9.09
+
